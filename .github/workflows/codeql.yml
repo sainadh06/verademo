@@ -76,5 +76,5 @@ jobs:
       with:
         language: 'java'
         queries: 'security-extended'
-   # Include compiled JSP files in the analysis
+    # Include compiled JSP files in the analysis
         additional-path: 'WEB-INF/classes/'
